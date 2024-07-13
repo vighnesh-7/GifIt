@@ -1,5 +1,6 @@
 
-# Welcome to Gifit 👋 
+# Welcome to Gifit 👋 ![a32uc-ax7ir-001](https://github.com/user-attachments/assets/371fd7f4-ae47-473d-bfec-a10c0c715344)
+
 
 ![logo](https://github.com/user-attachments/assets/dec9388b-4856-4286-9c10-7f5a9b9fe593)
 
@@ -39,20 +40,19 @@ You can start developing by editing the files inside the **app** directory. This
 The Welcome Page serves as the entry point to the Gifit app, providing users with an initial greeting and options to navigate to sign in or sign up.The Sign In Page allows existing users to log in to their accounts using their credentials. It includes fields for entering the username and password.The Sign Up Page enables new users to create an account. Users need to provide necessary details such as username, email, and password to register.
 
 
-![photo-collage png](https://github.com/user-attachments/assets/c272441d-a2ad-4699-a2fa-f358de7762f9)
+
+![photo-collage png (2)](https://github.com/user-attachments/assets/ecbd5744-6107-443b-ac78-1e33ef27ced1)
 
 
 
-### Home Page
 
-The Home Page is the main dashboard where users can view and interact with various posts, explore trending GIFs, and access other features of the app.
-![home](https://github.com/user-attachments/assets/053d5d47-4c14-4f1d-9252-2fee29b6832f)
+### Home Page and Create Post Page
+
+The Home Page is the main dashboard where users can view and interact with various posts, explore trending GIFs, and access other features of the app.The Create Post Page allows users to generate and share new GIFs. Users can enter text, select or create GIFs, and post them to the app's feed.
 
 
-### Create Post Page
-
-The Create Post Page allows users to generate and share new GIFs. Users can enter text, select or create GIFs, and post them to the app's feed.
-![create](https://github.com/user-attachments/assets/981fc7d2-99fa-45ce-91d5-f6ca37f1e40c)
+ 
+![photo-collage png (1)](https://github.com/user-attachments/assets/ba6c30b2-491d-4a55-81d2-f424890c1833)
 
 
 ### Profile Page
