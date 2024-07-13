@@ -1,5 +1,6 @@
 
-# Welcome to Gifit ![ascio-ocrop-001](https://github.com/user-attachments/assets/83bcdd22-49cd-4009-b160-8869010832d2)
+# Welcome to Gifit ![akdgu-8e27k-001](https://github.com/user-attachments/assets/ae4ca822-98db-42d1-bc22-593d8a1e5c84)
+
 
 
 
