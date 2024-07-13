@@ -4,7 +4,7 @@
 
 
 
-   ![logo](https://github.com/user-attachments/assets/dec9388b-4856-4286-9c10-7f5a9b9fe593)
+  ㅤㅤㅤㅤㅤㅤㅤㅤ ![logo](https://github.com/user-attachments/assets/dec9388b-4856-4286-9c10-7f5a9b9fe593)
 
 
 
@@ -39,7 +39,7 @@ You can start developing by editing the files inside the **app** directory. This
 
 ### Welcome Page and Auth Page
 
-The Welcome Page serves as the entry point to the Gifit app, providing users with an initial greeting and options to navigate to sign in or sign up.The Sign In Page allows existing users to log in to their accounts using their credentials. It includes fields for entering the username and password.The Sign Up Page enables new users to create an account. Users need to provide necessary details such as username, email, and password to register.
+The Welcome Page serves as the entry point to the Gifit app, providing users with an initial greeting and options to navigate to sign in or sign up.The Sign Up Page enables new users to create an account. Users need to provide necessary details such as username, email, and password to register.The Sign In Page allows existing users to log in to their accounts using their credentials. It includes fields for entering the username and password.
 
 
 
@@ -60,6 +60,10 @@ The Home Page is the main dashboard where users can view and interact with vario
 ### Profile Page
 
 The Profile Page displays user-specific information such as their created posts, account details, and settings. Users can also update their personal information from this page.
+
+
+
+
 ![profile](https://github.com/user-attachments/assets/7a858ed3-3de1-402f-a78c-716b1fa30236)
 
 
