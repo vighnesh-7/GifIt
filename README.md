@@ -1,5 +1,6 @@
 
-# Welcome to Gifit ![akdgu-8e27k-001](https://github.com/user-attachments/assets/ae4ca822-98db-42d1-bc22-593d8a1e5c84)
+# Welcome to Gifit ![afx8k-9bdch-001](https://github.com/user-attachments/assets/93cf4198-5373-4495-80ea-fe8366fb4b21)
+
 
 
 
