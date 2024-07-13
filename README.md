@@ -1,6 +1,5 @@
 
-# Welcome to Gifit ![afx8k-9bdch-001](https://github.com/user-attachments/assets/93cf4198-5373-4495-80ea-fe8366fb4b21)
-
+# Welcome to Gifit ![akdgu-8e27k-001](https://github.com/user-attachments/assets/ae4ca822-98db-42d1-bc22-593d8a1e5c84)
 
 
 
@@ -85,4 +84,3 @@ To learn more about developing your project with Expo, look at the following res
 
 - [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
 - [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
