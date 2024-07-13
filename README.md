@@ -1,5 +1,6 @@
 
-# Welcome to Gifit 👋 ![a32uc-ax7ir-001](https://github.com/user-attachments/assets/371fd7f4-ae47-473d-bfec-a10c0c715344)
+# Welcome to Gifit ![ascio-ocrop-001](https://github.com/user-attachments/assets/83bcdd22-49cd-4009-b160-8869010832d2)
+
 
 
 ![logo](https://github.com/user-attachments/assets/dec9388b-4856-4286-9c10-7f5a9b9fe593)
