@@ -1,7 +1,8 @@
 
 # Welcome to Gifit 👋 
 
-![logo-small](https://github.com/user-attachments/assets/4dd390af-b4e0-46ea-961f-fbd07ea8b199)
+![logo](https://github.com/user-attachments/assets/dec9388b-4856-4286-9c10-7f5a9b9fe593)
+
 
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -33,22 +34,13 @@ You can start developing by editing the files inside the **app** directory. This
 
 ## App Screens
 
-### Welcome Page
+### Welcome Page and Auth Page
 
-The Welcome Page serves as the entry point to the Gifit app, providing users with an initial greeting and options to navigate to sign in or sign up.
-![welcome](https://github.com/user-attachments/assets/a65b8296-e695-4496-b82e-ef28beaa6db9)
-
-
-### Sign In Page
-
-The Sign In Page allows existing users to log in to their accounts using their credentials. It includes fields for entering the username and password.
-![signin](https://github.com/user-attachments/assets/2386088d-03b2-4ff7-a7b0-488cdf942dca)
+The Welcome Page serves as the entry point to the Gifit app, providing users with an initial greeting and options to navigate to sign in or sign up.The Sign In Page allows existing users to log in to their accounts using their credentials. It includes fields for entering the username and password.The Sign Up Page enables new users to create an account. Users need to provide necessary details such as username, email, and password to register.
 
 
-### Sign Up Page
+![photo-collage png](https://github.com/user-attachments/assets/c272441d-a2ad-4699-a2fa-f358de7762f9)
 
-The Sign Up Page enables new users to create an account. Users need to provide necessary details such as username, email, and password to register.
-![signup](https://github.com/user-attachments/assets/ff800e1d-6cc7-427a-99b4-4bf56feb8004)
 
 
 ### Home Page
